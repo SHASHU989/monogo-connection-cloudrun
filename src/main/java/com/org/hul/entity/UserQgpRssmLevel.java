@@ -13,7 +13,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Document(collection = "dss_ua_qgp_user_level")
+@Document(collection = "dss_ua_qgp_user_levels")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

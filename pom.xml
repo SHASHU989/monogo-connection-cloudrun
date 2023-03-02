@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.org.hul</groupId>
-	<artifactId>hul-project</artifactId>
+	<artifactId>user-resigtry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hul-project</name>
-	<description>hul-project</description>
+	<name>user-resigtry</name>
+	<description>user-resigtry</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
